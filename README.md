@@ -2,7 +2,6 @@
 - 👀 I’m interested in making programs and games that are non profit,AND TESTING REPOS FOR WEB OSES
 - 🌱 I’m currently learning Html,ByteBeat (C++),JAVASCRIPT.
 - 📫 How to reach me :@crxryi ON DISCORD.
-- 😄 Pronouns: he\him
 - ⚡ Fun fact: I love W93,W96,Daedal OS & Aaron OS.
 
 <!---
